@@ -1,3 +1,1 @@
-# Shopping
-# Data-Science
 # Medex
